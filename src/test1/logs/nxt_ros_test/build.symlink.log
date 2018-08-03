@@ -1,0 +1,3 @@
+Symlinking /home/user/catkin_testws/src/test1/devel/lib/pkgconfig/nxt_ros_test.pc
+Symlinking /home/user/catkin_testws/src/test1/devel/share/nxt_ros_test/cmake/nxt_ros_testConfig-version.cmake
+Symlinking /home/user/catkin_testws/src/test1/devel/share/nxt_ros_test/cmake/nxt_ros_testConfig.cmake

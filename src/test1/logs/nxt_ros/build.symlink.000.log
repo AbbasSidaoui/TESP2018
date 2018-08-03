@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_testws/src/test1/devel/lib/pkgconfig/nxt_ros.pc
+Symlinking /home/user/catkin_testws/src/test1/devel/lib/python2.7/dist-packages/nxt_ros/__init__.py
+Symlinking /home/user/catkin_testws/src/test1/devel/share/nxt_ros/cmake/nxt_rosConfig.cmake
+Symlinking /home/user/catkin_testws/src/test1/devel/share/nxt_ros/cmake/nxt_rosConfig-version.cmake

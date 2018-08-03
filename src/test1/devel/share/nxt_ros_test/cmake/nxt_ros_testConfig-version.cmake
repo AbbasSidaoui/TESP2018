@@ -1,0 +1,1 @@
+/home/user/catkin_testws/src/test1/devel/.private/nxt_ros_test/share/nxt_ros_test/cmake/nxt_ros_testConfig-version.cmake

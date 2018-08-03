@@ -1,0 +1,4 @@
+Symlinking /home/user/catkin_testws/src/test1/devel/lib/pkgconfig/nxt_controllers.pc
+Symlinking /home/user/catkin_testws/src/test1/devel/lib/python2.7/dist-packages/nxt_controllers/__init__.py
+Symlinking /home/user/catkin_testws/src/test1/devel/share/nxt_controllers/cmake/nxt_controllersConfig-version.cmake
+Symlinking /home/user/catkin_testws/src/test1/devel/share/nxt_controllers/cmake/nxt_controllersConfig.cmake
